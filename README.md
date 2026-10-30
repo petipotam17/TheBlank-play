@@ -2,4 +2,4 @@
 
 Jouer : https://petipotam17.github.io/TheBlank-play/
 
-Build générée depuis le commit bfd4530.
+Build générée depuis le commit 68ca3fd.
